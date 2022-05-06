@@ -1,2 +1,2 @@
 # calibration
-## input 10 of more images of chessboard
+## input 10 or more images of chessboard
